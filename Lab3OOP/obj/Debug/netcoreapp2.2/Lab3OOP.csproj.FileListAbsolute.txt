@@ -1,0 +1,11 @@
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/bin/Debug/netcoreapp2.2/Lab3OOP.deps.json
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/bin/Debug/netcoreapp2.2/Lab3OOP.runtimeconfig.json
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/bin/Debug/netcoreapp2.2/Lab3OOP.runtimeconfig.dev.json
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/bin/Debug/netcoreapp2.2/Lab3OOP.dll
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/bin/Debug/netcoreapp2.2/Lab3OOP.pdb
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/Debug/netcoreapp2.2/Lab3OOP.csprojAssemblyReference.cache
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/Debug/netcoreapp2.2/Lab3OOP.csproj.CoreCompileInputs.cache
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/Debug/netcoreapp2.2/Lab3OOP.AssemblyInfoInputs.cache
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/Debug/netcoreapp2.2/Lab3OOP.AssemblyInfo.cs
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/Debug/netcoreapp2.2/Lab3OOP.dll
+/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/Debug/netcoreapp2.2/Lab3OOP.pdb

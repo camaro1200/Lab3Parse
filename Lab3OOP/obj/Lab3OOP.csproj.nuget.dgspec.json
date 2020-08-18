@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/Lab3OOP.csproj": {}
+  },
+  "projects": {
+    "/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/Lab3OOP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/Lab3OOP.csproj",
+        "projectName": "Lab3OOP",
+        "projectPath": "/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/Lab3OOP.csproj",
+        "packagesPath": "/Users/paulshaburov/.nuget/packages/",
+        "outputPath": "/Users/paulshaburov/Documents/Lab3OOP/Lab3OOP/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/Users/paulshaburov/.dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/paulshaburov/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
